@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepanand1625
+- 👋 Hi, I’m @Deepasivakumar
 - 👀 I’m interested in python and django
 - 🌱 I’m currently learning python and django framework 
 - 📫 Reach out to me in deepasivakumar25@gmail.com
